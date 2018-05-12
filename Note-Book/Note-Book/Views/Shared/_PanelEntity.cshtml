@@ -2,7 +2,7 @@
 
 <div class="panel-entity-div">
     <img src="@Url.Content(Model.IcoUri)" alt="Image" class="panel-entity-img" />
-    <p align="center">@Model.Name</p>
+    <a href="@Url.Action("Anime", "Details", new { id = "1" })"><p align="center" class="panel-entity-name">@Model.Name</p></a>
 </div>
 
 <style type="text/css">
@@ -17,6 +17,9 @@
         float: left;
         margin-right: 1.5%;
         margin-bottom: 1%;
+    }
+    p.panel-entity-name {
+        color: white;
     }
 </style>
 
