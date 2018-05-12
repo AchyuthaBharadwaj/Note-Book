@@ -9,3 +9,5 @@ C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\obj\Debug\netc
 C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\obj\Debug\netcoreapp2.0\Note-Book.AssemblyInfo.cs
 C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\obj\Debug\netcoreapp2.0\Note-Book.dll
 C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\obj\Debug\netcoreapp2.0\Note-Book.pdb
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\bin\Debug\netcoreapp2.0\Note-Book.Entity.dll
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book\bin\Debug\netcoreapp2.0\Note-Book.Entity.pdb

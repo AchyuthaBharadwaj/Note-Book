@@ -1,0 +1,24 @@
+﻿@model Note_Book.Entity.BaseEntity
+
+<div class="panel-entity-div">
+    <img src="@Url.Content(Model.IcoUri)" alt="Image" class="panel-entity-img" />
+    <p align="center">@Model.Name</p>
+</div>
+
+<style type="text/css">
+    img.panel-entity-img {
+        width: 100% !important;
+        height: 90% !important;
+    }
+
+    div.panel-entity-div {
+        width: 120px !important;
+        height: 200px !important;
+        float: left;
+        margin-right: 1.5%;
+        margin-bottom: 1%;
+    }
+</style>
+
+
+

@@ -1,0 +1,9 @@
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\bin\Debug\netstandard2.0\Note-Book.Entity.deps.json
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\bin\Debug\netstandard2.0\Note-Book.Entity.dll
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\bin\Debug\netstandard2.0\Note-Book.Entity.pdb
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.AssemblyInfoInputs.cache
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.AssemblyInfo.cs
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.dll
+C:\Users\Bharadwaj\Documents\GitHub\Note-Book\Note-Book\Note-Book.Entity\obj\Debug\netstandard2.0\Note-Book.Entity.pdb

@@ -12,7 +12,8 @@ namespace Note_Book.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            HomeModel model = new HomeModel();
+            return View(model);
         }        
 
         public IActionResult Error()
