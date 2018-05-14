@@ -1,0 +1,12 @@
+c:\users\bharadwaj\source\repos\Notebook\Notebook\bin\Debug\netcoreapp2.0\Notebook.deps.json
+c:\users\bharadwaj\source\repos\Notebook\Notebook\bin\Debug\netcoreapp2.0\Notebook.runtimeconfig.json
+c:\users\bharadwaj\source\repos\Notebook\Notebook\bin\Debug\netcoreapp2.0\Notebook.runtimeconfig.dev.json
+c:\users\bharadwaj\source\repos\Notebook\Notebook\bin\Debug\netcoreapp2.0\Notebook.dll
+c:\users\bharadwaj\source\repos\Notebook\Notebook\bin\Debug\netcoreapp2.0\Notebook.pdb
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.csprojResolveAssemblyReference.cache
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.csproj.CoreCompileInputs.cache
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.AssemblyInfoInputs.cache
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.AssemblyInfo.cs
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.dll
+c:\users\bharadwaj\source\repos\Notebook\Notebook\obj\Debug\netcoreapp2.0\Notebook.pdb
